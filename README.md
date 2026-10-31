@@ -13,6 +13,8 @@ With the increasing number of online scams through SMS, WhatsApp, emails, and so
 
 Scam Message Investigator uses a locally running Large Language Model (LLM) to examine suspicious messages, identify warning signs, and provide recommendations to help users stay safe online.
 
+<img width="1190" height="621" alt="image" src="https://github.com/user-attachments/assets/bf799d36-aa64-4619-adef-f767b3008d27" />
+
 ## ✨ Features
 
 - 🔎 **Message Investigation:** Analyze suspicious text messages.
@@ -43,6 +45,9 @@ Scam-Message-Investigator/
 ├── README.md
 └── Scam_Message_Investigator_Project_Documentation.docx
 ```
+<img width="1275" height="596" alt="image" src="https://github.com/user-attachments/assets/c68c20d7-5e4e-4429-8033-ba9901d27b4a" />
+<img width="1308" height="475" alt="image" src="https://github.com/user-attachments/assets/f46ca72d-aa99-4565-91ec-435f62a655f7" />
+
 
 ## ⚙️ Installation and Setup
 
