@@ -1,7 +1,7 @@
 
 # 🔍 Scam Message Investigator
 
-# Demo link : https://gbm5vavcvcgn8rhmsbnpvg.streamlit.app/
+### Demo link : https://gbm5vavcvcgn8rhmsbnpvg.streamlit.app/
 
 An AI-powered application that investigates suspicious messages and helps users identify potential scams, phishing attempts, fraudulent offers, and misleading communications.
 
